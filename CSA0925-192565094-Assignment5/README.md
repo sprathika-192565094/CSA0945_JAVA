@@ -1,7 +1,7 @@
 # CSA09 Assignment 5 – Data Persistence Engineering
 
-Student Name : Dev Narayan E 
-Reg No: 192420165
+Student Name : S.Prathika
+Reg No: 192565094
 
 This project contains a working Java implementation of the Assignment 5 tasks in the course PDF.
 
