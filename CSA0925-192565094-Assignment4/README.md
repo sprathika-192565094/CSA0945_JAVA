@@ -1,9 +1,9 @@
 # Assignment 4 – Event-Driven GUI Design
 
-**Student:** Vinaay babu A
-**Register number:** 192571034
+**Student:** S.Prathika
+**Register number:** 192565094
 **Java version:** 17  
-**Repository:** CSA0925-1924260165-Assingment4
+**Repository:** https://github.com/sprathika-192565094/CSA0945_JAVA
 
 This repository contains the completed Java GUI/GUI-event work for Assignment 4.
 
