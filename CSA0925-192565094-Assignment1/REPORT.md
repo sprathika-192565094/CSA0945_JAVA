@@ -1,8 +1,8 @@
 # Assignment 1 — Campus Smart-Parking System
 
-**Student name:** [Enter your name]  
-**Register number:** [Enter your register number]  
-**GitHub link:** [CSA0925-1924260165-Assingment1](https://github.com/devnarayan729/CSA0925-1924260165-Assingment1)  
+Student name: S.Prathika
+Register number: 192565094
+GitHub link: [CSA0925-192565094-Assingment1](https://github.com/sprathika-192565094/CSA0945_JAVA/edit/main/CSA0925-192565094-Assignment1)  
 **Java:** 17
 
 ## Design assumptions
