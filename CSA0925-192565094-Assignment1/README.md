@@ -1,8 +1,8 @@
 # Assignment 1 — Campus Smart-Parking System
 
-Student: A Vinaay babu 
-Register number:192571034
-GitHub repository: [CSA0925-1924260165-Assingment1](https://github.com/devnarayan729/CSA0925-1924260165-Assingment1)  
+Student: S.Prathika
+Register number:192565094
+GitHub repository: [CSA0925-192565094-Assingment1](https://github.com/sprathika-192565094/CSA0945_JAVA/edit/main/CSA0925-192565094-Assignment1)  
 Java version: 17
 
 ## Assignment report
