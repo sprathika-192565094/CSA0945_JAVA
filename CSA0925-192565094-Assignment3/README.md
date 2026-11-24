@@ -1,11 +1,8 @@
 # Programming in Java — Assignment 3
 
-**Student A Vinaay babu A / register number:** [192571034]  
-**Student B name / register number:** [Enter details]  
-**Java version:** Java 21 (source is kept compatible with Java 11+)  
-**Submission date:** [Enter date]  
-**Student A GitHub link:** [Add repository link]  
-**Student B GitHub link:** [Add repository link]
+**Student S.Prathika / register number:** [192565094]   
+**Java version:** Java 21 (source is kept compatible with Java 11+)    
+**Student A GitHub link:** [https://github.com/sprathika-192565094/CSA0945_JAVA/edit/main/CSA0925-192565094-Assignment3]  
 
 Detailed design answers, complexity notes, and test evidence are in
 [Assignment-Answers.md](./Assignment-Answers.md).
