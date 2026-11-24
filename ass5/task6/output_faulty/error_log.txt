@@ -1,5 +1,0 @@
-CSE.txt:3 | DuplicateRegistration | register number 192411001 already registered
-ECE.txt:3 | InvalidRecord | invalid e-mail 'ilango@simats'
-MECH.txt:2 | InvalidRecord | expected 5 fields, found 2
-CIVIL.txt | FileNotFoundError | department file missing - skipped
-IT.txt:3 | DuplicateRegistration | register number 192431001 already registered

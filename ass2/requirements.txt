@@ -1,4 +1,0 @@
-# Only needed for the graphs (Task06, Task07), the output images (capture_outputs.py) and the report builder
-matplotlib>=3.5
-pillow>=9.0
-python-docx>=1.1

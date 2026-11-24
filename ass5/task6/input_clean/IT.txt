@@ -1,2 +1,0 @@
-192451001,Gokul V,IT,gokul@simats.edu,Singing
-192451002,Hema L,IT,hema@simats.edu,Quiz;Dance

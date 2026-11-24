@@ -1,9 +1,0 @@
-192311001 Anita 1250.50
-192311002 Ravi 1300
-192311005 Divya 980
-192311007 Lakshmi 1425.25
-Total 4955.75
-Rejected lines: 3
-  line 3: amount is not a number: '192311003,Meena,abc'
-  line 4: expected 3 fields, found 4: '192311004,Karthik,1100.75,extra'
-  line 7: expected 3 fields, found 2: '192311006,Suresh'

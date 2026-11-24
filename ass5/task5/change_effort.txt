@@ -1,8 +1,0 @@
-v1/org_a/attendance_all.py and v2/org_a/attendance_all.py
-v1/org_b/attendance_lib.py and v2/org_b/attendance_lib.py
-v1/org_b/main_b.py and v2/org_b/main_b.py
-v1/org_c/main_c.py and v2/org_c/main_c.py
-v1/org_c/stats.py and v2/org_c/stats.py
-v1/org_d/attendance/__init__.py and v2/org_d/attendance/__init__.py
-v1/org_d/attendance/stats.py and v2/org_d/attendance/stats.py
-v1/org_d/main_d.py and v2/org_d/main_d.py

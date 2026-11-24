@@ -1,2 +1,0 @@
-{'files_read': 5, 'files_missing': 0, 'lines_read': 8, 'accepted': 8, 'duplicates': 0, 'invalid': 0}
-0 problem(s) logged in output_clean/error_log.txt

@@ -1,3 +1,0 @@
-192421001,Charan S,ECE,charan@simats.edu,Quiz;Drama
-192421002,Deepa M,ECE,deepa@simats.edu,Dance
-192421003,Ilango K,ECE,ilango@simats,Dance

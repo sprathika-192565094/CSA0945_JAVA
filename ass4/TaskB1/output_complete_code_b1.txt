@@ -1,7 +1,0 @@
-[('Adyar', '2026-10-01', 48.0), ('Guindy', '2026-10-01', 95.0), ('Guindy', '2026-10-03', 121.0)]
-[0.0, 0.644, 1.0]
-
---- extra test: a row above 999 must be skipped ---
-[('Adyar', '2026-10-01', 48.0), ('Guindy', '2026-10-01', 95.0), ('Guindy', '2026-10-03', 121.0), ('Guindy', '2026-10-04', 999.0)]
-1500 skipped: True | 999 kept (boundary): True
-expected output of the question reproduced: True

@@ -1,7 +1,0 @@
-{
- "correct on 1st try": "ACCESS GRANTED on attempt 1",
- "correct on 3rd try": "ACCESS GRANTED on attempt 3",
- "blank entries ignored, correct on 2nd real try": "ACCESS GRANTED on attempt 2",
- "three wrong -> lock": "ACCOUNT LOCKED for 30 minutes",
- "three wrong, then correct 4th (must still lock)": "ACCOUNT LOCKED for 30 minutes"
-}

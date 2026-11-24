@@ -1,8 +1,0 @@
-=== Do the two versions agree? (1,000 rows, every value compared) ===
-rows in 1,012; rows out python 1,000, pandas 1,000; same row count: True; rows that differ: 0
-
-=== Time and peak memory (each run in a separate process; file read included) ===
-      rows |  python time  peak MB |  pandas time  peak MB | speed-up
-     1,000 |      0.018 s       15 |      0.219 s       69 |    0.1x
-   100,000 |      1.276 s       82 |      0.619 s       98 |    2.1x
- 1,000,000 |     14.294 s      682 |      4.474 s      380 |    3.2x

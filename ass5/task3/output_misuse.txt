@@ -1,4 +1,0 @@
-specific handlers  : (1, 1, [(3, 'expected 3 fields, found 2'), (4, "invalid status 'L'")])
-except Exception  : (0, 1, [])
-
-specific except   : crashed visibly -> UnboundLocalError: cannot access local variable 'presnt' where it is not associated with a value

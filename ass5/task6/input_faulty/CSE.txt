@@ -1,3 +1,0 @@
-192411001,Arun Kumar,CSE,arun.kumar@simats.edu,Dance;Singing
-192411002,Bhavya R,CSE,bhavya@simats.edu,Singing;Quiz
-192411001,Arun Kumar,CSE,arun.kumar@simats.edu,Quiz
