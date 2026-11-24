@@ -1,0 +1,6 @@
+PARK-000001 slot=(0,0) fee=Rs 30.00
+PARK-000002 slot=(0,2) fee=Rs 96.00
+PARK-000003 slot=(0,1) fee=Rs 0.00
+PARK-000004 slot=(1,0) fee=Rs 0.00
+PARK-000005 slot=(1,1) fee=Rs 90.00
+Active vehicles: 0

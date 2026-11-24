@@ -1,0 +1,16 @@
+PASS: normal car, exactly one hour
+PASS: partial hour rounds up
+PASS: zero-minute stay costs zero
+PASS: last free slot and full-facility rejection
+PASS: duplicate active registration rejected
+PASS: unknown vehicle category rejected
+PASS: invalid exit time preserves ticket
+PASS: out-of-range slot configuration rejected
+PASS: monthly and one-day passes waive parking fee
+PASS: one-day pass does not waive EV charging energy
+PASS: electric vehicle prefers charging slot and bills energy
+PASS: e-bike flat rate and charge cost
+PASS: delivery van doubles car rate in peak hours
+PASS: ten-hour daily maximum applies
+PASS: reused slot and empty lookup
+Passed 15 tests.
